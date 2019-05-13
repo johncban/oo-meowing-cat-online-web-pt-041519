@@ -2,6 +2,6 @@
 class Cat
   attr_accessor :name
 
-  attr_reader :meowing_cat
-  attr_writer :meowing_cat
+  attr_reader :meow
+  attr_writer :meow
 end
