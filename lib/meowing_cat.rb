@@ -1,5 +1,5 @@
 ## code your solution here.
 class Cat
-  attr_writer :name
-  attr_reader :meow
+  attr_accesso :name
+  attr_accessor :meow
 end
